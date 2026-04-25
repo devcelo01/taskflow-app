@@ -19,4 +19,4 @@ Aplicação web de gerenciamento de tarefas desenvolvida com JavaScript.
 Projeto desenvolvido para praticar manipulação de DOM e lógica de programação.
 
 ## 🔗 Demo
-(em breve)# taskflow-app
+https://devcelo01.github.io/taskflow-app/
